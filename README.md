@@ -1,5 +1,5 @@
 # Resourcepacks
-A list of Minecraft resourcepacks I've written or contributed to.
+Minecraft resourcepacks I've written or contributed to.
 
 Resourcepack    | Category  | Description
 --------------- | --------- | -----------
